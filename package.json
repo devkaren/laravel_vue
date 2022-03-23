@@ -1,0 +1,36 @@
+{
+  "name": "vps2day-frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@meforma/vue-toaster": "^1.3.0",
+    "autoprefixer": "^10.4.2",
+    "axios": "^0.25.0",
+    "dinero.js": "^1.9.1",
+    "mitt": "^3.0.0",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18",
+    "vue": "^3.2.25",
+    "vue-axios": "^3.4.1",
+    "vue-i18n": "^9.2.0-beta.30",
+    "vue-router": "4",
+    "vue3-click-away": "^1.2.1",
+    "vue3-cookies": "^1.0.6",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "vite": "^2.7.2"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true
+    }
+  }
+}

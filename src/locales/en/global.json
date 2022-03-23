@@ -1,0 +1,16 @@
+{
+  "previous": "&laquo; Previous",
+  "next": "Next &raquo;",
+  "or": "or",
+  "legal_notice": "Legal Notice",
+  "privacy": "Privacy",
+  "language": {
+    "de": "German",
+    "en": "English"
+  },
+  "back": "Back",
+  "delete": "Delete",
+  "overview": "Overview",
+  "create": "Create",
+  "pronoun": "You"
+}
